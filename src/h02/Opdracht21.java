@@ -1,9 +1,9 @@
-package h01;
+package h02;
 
 import java.awt.*;
 import java.applet.*;
 
-public class HalloRocDev extends Applet {
+public class Opdracht21 extends Applet {
 
     public void init() {
         setBackground(Color.blue);
@@ -16,5 +16,6 @@ public class HalloRocDev extends Applet {
         g.drawString("elfathi!!", 50, 80 );
     }
 }
+
 
 
