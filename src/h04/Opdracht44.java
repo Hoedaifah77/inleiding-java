@@ -6,7 +6,6 @@ public class Opdracht44 extends Applet {
     }
 
     public Opdracht44() throws HeadlessException {
-        // HALLO
     }
 
     public void paint(Graphics g) {
