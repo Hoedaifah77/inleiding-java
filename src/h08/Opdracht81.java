@@ -6,6 +6,7 @@ import java.awt.event.*;
 
 
 public class Opdracht81 extends Applet {
+
     Button okKnop;
     Button resetKnop;
 
@@ -33,7 +34,7 @@ public class Opdracht81 extends Applet {
 
     public void paint(Graphics g) {
 
-        g.drawString("" + input, 40,40);
+        g.drawString("totaal " + input, 40,40);
 
     }
 
